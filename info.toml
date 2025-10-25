@@ -1,7 +1,0 @@
-[package]
-name = "argvparser"
-version = "1.0.0"
-author = "CLIB"
-description = "argvparser"
-os = ["Windows", "Linux", "Darwin"]
-

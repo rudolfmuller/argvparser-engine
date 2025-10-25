@@ -1,0 +1,9 @@
+name: argvparser
+version: 1.0.0
+author: CLIB
+description: argvparser
+
+Windows: true 
+Linux: true 
+Darwin: true
+
